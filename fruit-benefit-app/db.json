@@ -1,0 +1,1301 @@
+{
+    "fruits": [
+      {
+        "name": "apple",
+        "keyBenefits": [
+          {
+            "title": "Cancer Prevention",
+            "description": "Contains antioxidants and bioactive compounds that protect cells and reduce inflammation."
+          },
+          {
+            "title": "Weight Loss",
+            "description": "High in fiber and water, helping you feel full and reducing food intake."
+          },
+          {
+            "title": "Boosts Immunity",
+            "description": "Rich in vitamin C, aiding in tissue growth and repair."
+          },
+          {
+            "title": "Digestive Health",
+            "description": "Promotes gut health and regular bowel movements."
+          },
+          {
+            "title": "Skin Health",
+            "description": "Anti-inflammatory properties and malic acid improve skin health."
+          }
+        ],
+        "moreBenefits": [
+          "Supports brain health and memory.",
+          "Helps build a strong immune system during pregnancy."
+        ]
+      },
+      {
+        "name": "ackee",
+        "keyBenefits": [
+          {
+            "title": "Rich in Essential Fatty Acids",
+            "description": "Helps improve heart health and maintain cellular functions."
+          },
+          {
+            "title": "Blood Sugar Management",
+            "description": "Supports healthy blood sugar levels when consumed in moderation."
+          },
+          {
+            "title": "Heart Health",
+            "description": "Contains antioxidants that reduce the risk of heart-related issues."
+          }
+        ],
+        "moreBenefits": [
+          "High in fiber, aiding digestion and preventing constipation.",
+          "May lower the risk of type 2 diabetes and colon diseases."
+        ]
+      },
+      {
+        "name": "avocado",
+        "keyBenefits": [
+          {
+            "title": "Heart Health",
+            "description": "Rich in monounsaturated fats and potassium, which support healthy blood pressure and cholesterol levels."
+          },
+          {
+            "title": "Nutrient Dense",
+            "description": "Packed with vitamins like K, C, E, and B6, as well as folate and magnesium."
+          },
+          {
+            "title": "Eye Health",
+            "description": "Contains lutein and zeaxanthin, antioxidants that protect your eyes."
+          },
+          {
+            "title": "Weight Management",
+            "description": "Fiber and healthy fats keep you full longer and support metabolism."
+          }
+        ],
+        "moreBenefits": [
+          "Boosts skin and hair health with essential fatty acids.",
+          "Improves digestion with soluble and insoluble fiber.",
+          "Supports a healthy immune system with antioxidant properties."
+        ]
+      },
+      {
+        "name": "banana",
+        "keyBenefits": [
+          {
+            "title": "Energy Boost",
+            "description": "Rich in natural sugars and carbohydrates for a quick energy source."
+          },
+          {
+            "title": "Heart Health",
+            "description": "High in potassium, helping maintain a healthy heart and regulate blood pressure."
+          },
+          {
+            "title": "Digestive Health",
+            "description": "Contains dietary fiber to aid digestion and prevent constipation."
+          },
+          {
+            "title": "Bone Health",
+            "description": "Provides magnesium and potassium, supporting bone strength."
+          },
+          {
+            "title": "Muscle Recovery",
+            "description": "Helps prevent muscle cramps and aids recovery after exercise."
+          }
+        ],
+        "moreBenefits": [
+          "Supports mood and sleep with tryptophan, a precursor to serotonin.",
+          "Improves kidney health by reducing calcium loss.",
+          "May help regulate blood sugar levels after meals."
+        ]
+      },
+      {
+        "name": "apricot",
+        "keyBenefits": [
+          {
+            "title": "Digestive Health",
+            "description": "Contains fiber that helps with digestion and gut health."
+          },
+          {
+            "title": "Skin Health",
+            "description": "Vitamin A and C protect skin cells and promote collagen production."
+          },
+          {
+            "title": "Heart Health",
+            "description": "Potassium supports regular heart rhythms."
+          }
+        ],
+        "moreBenefits": [
+          "Rich in antioxidants that protect cells from damage.",
+          "Helps regulate blood sugar levels.",
+          "Boosts the immune system with vitamin C.",
+          "Helps reduce cholesterol levels."
+        ]
+      },
+      {
+        "name": "bell pepper",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamins",
+            "description": "Bell peppers are high in vitamins A and C, boosting immune health and skin vitality."
+          },
+          {
+            "title": "Antioxidant Properties",
+            "description": "Contains antioxidants like beta-carotene, protecting cells from oxidative damage."
+          },
+          {
+            "title": "Low-Calorie Snack",
+            "description": "Perfect for weight management due to its low-calorie content and high water percentage."
+          }
+        ],
+        "moreBenefits": [
+          "Supports eye health with lutein and zeaxanthin.",
+          "Improves digestion with dietary fiber.",
+          "Promotes heart health by reducing cholesterol levels."
+        ]
+      },
+      {
+        "name": "betel nut",
+        "keyBenefits": [
+          {
+            "title": "Improved Digestion",
+            "description": "Traditionally used to stimulate digestion and relieve constipation."
+          },
+          {
+            "title": "Boosts Energy",
+            "description": "Known for its mild stimulant properties, enhancing alertness and energy."
+          },
+          {
+            "title": "Oral Health",
+            "description": "Traditionally believed to help strengthen gums and teeth when used in moderation."
+          }
+        ],
+        "moreBenefits": [
+          "May help in managing bad breath.",
+          "Culturally used to support mental focus.",
+          "Contains alkaloids with traditional medicinal uses."
+        ]
+      },
+      {
+        "name": "bitter gourd",
+        "keyBenefits": [
+          {
+            "title": "Blood Sugar Regulation",
+            "description": "Contains compounds that mimic insulin, helping manage blood sugar levels."
+          },
+          {
+            "title": "Rich in Nutrients",
+            "description": "High in vitamins C and A, supporting immunity and skin health."
+          },
+          {
+            "title": "Supports Digestion",
+            "description": "Aids in digestion and improves gut health with its fiber content."
+          }
+        ],
+        "moreBenefits": [
+          "May support weight loss due to low-calorie content.",
+          "Has anti-inflammatory properties.",
+          "May help boost liver health."
+        ]
+      },
+      {
+        "name": "black cherry",
+        "keyBenefits": [
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Black cherries are packed with anthocyanins, which reduce inflammation and combat free radicals."
+          },
+          {
+            "title": "Promotes Better Sleep",
+            "description": "Contains melatonin, which can help improve sleep quality."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "High in potassium, which helps regulate blood pressure and heart function."
+          }
+        ],
+        "moreBenefits": [
+          "May reduce symptoms of arthritis and gout.",
+          "Improves exercise recovery by reducing muscle soreness.",
+          "Supports brain health and cognitive function."
+        ]
+      },
+      {
+        "name": "black mulberry",
+        "keyBenefits": [
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Contains anthocyanins and resveratrol, which protect cells from oxidative damage."
+          },
+          {
+            "title": "Supports Immune Health",
+            "description": "High vitamin C content strengthens the immune system and helps fight infections."
+          },
+          {
+            "title": "Improves Digestion",
+            "description": "Contains dietary fiber that promotes gut health and prevents constipation."
+          }
+        ],
+        "moreBenefits": [
+          "May help regulate blood sugar levels.",
+          "Supports brain health with neuroprotective compounds.",
+          "Contains iron, which supports healthy blood production."
+        ]
+      },
+      {
+        "name": "blueberry",
+        "keyBenefits": [
+          {
+            "title": "High in Antioxidants",
+            "description": "Packed with anthocyanins, which help reduce inflammation and combat free radicals."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Helps lower bad cholesterol and improve arterial function."
+          },
+          {
+            "title": "Boosts Brain Function",
+            "description": "May improve memory and delay age-related cognitive decline."
+          }
+        ],
+        "moreBenefits": [
+          "Aids in weight management due to low calories and high fiber.",
+          "Improves eye health by protecting against oxidative stress.",
+          "Helps regulate blood sugar levels."
+        ]
+      },
+      {
+        "name": "bottle gourd",
+        "keyBenefits": [
+          {
+            "title": "Promotes Hydration",
+            "description": "High water content keeps the body hydrated, especially in hot weather."
+          },
+          {
+            "title": "Aids Digestion",
+            "description": "Rich in dietary fiber, which helps prevent constipation and promotes gut health."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Low in cholesterol and saturated fats, making it heart-friendly."
+          }
+        ],
+        "moreBenefits": [
+          "Helps in weight management with its low-calorie content.",
+          "May support liver health and detoxification.",
+          "Known for cooling properties that soothe the digestive tract."
+        ]
+      },
+      {
+        "name": "brazil nut",
+        "keyBenefits": [
+          {
+            "title": "Rich in Selenium",
+            "description": "One of the best natural sources of selenium, which supports thyroid function and immunity."
+          },
+          {
+            "title": "Boosts Heart Health",
+            "description": "Contains healthy fats that reduce bad cholesterol and support cardiovascular health."
+          },
+          {
+            "title": "Supports Brain Health",
+            "description": "Selenium and antioxidants may help improve brain function and prevent cognitive decline."
+          }
+        ],
+        "moreBenefits": [
+          "Promotes skin health with vitamin E and healthy fats.",
+          "Supports bone health due to magnesium and phosphorus content.",
+          "May help regulate blood sugar levels."
+        ]
+      },
+      {
+        "name": "burdekin plum",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Contains high levels of vitamin C, which supports the immune system and skin health."
+          },
+          {
+            "title": "Antioxidant Properties",
+            "description": "Packed with antioxidants that help fight oxidative stress and reduce the risk of chronic diseases."
+          },
+          {
+            "title": "Supports Digestion",
+            "description": "Contains dietary fiber that promotes digestive health and prevents constipation."
+          }
+        ],
+        "moreBenefits": [
+          "May help in regulating blood sugar levels.",
+          "Boosts collagen production for healthier skin.",
+          "Aids in weight management due to its low-calorie content."
+        ]
+      },
+      {
+        "name": "caimito",
+        "keyBenefits": [
+          {
+            "title": "Supports Digestion",
+            "description": "Rich in dietary fiber, which helps promote healthy digestion and prevent constipation."
+          },
+          {
+            "title": "Boosts Immunity",
+            "description": "Packed with antioxidants and vitamin C, which help strengthen the immune system."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Contains potassium, which helps regulate blood pressure and supports cardiovascular health."
+          }
+        ],
+        "moreBenefits": [
+          "Rich in vitamins A and C, which support eye and skin health.",
+          "Helps in managing cholesterol levels.",
+          "Aids in detoxification due to its high water content."
+        ]
+      },
+      {
+        "name": "cantaloupe",
+        "keyBenefits": [
+          {
+            "title": "Hydration",
+            "description": "Cantaloupe has a high water content that helps in keeping the body hydrated."
+          },
+          {
+            "title": "Rich in Vitamins A and C",
+            "description": "Supports skin health, boosts immunity, and protects against oxidative stress."
+          },
+          {
+            "title": "Good for Eye Health",
+            "description": "Contains beta-carotene, which supports good vision and eye health."
+          }
+        ],
+        "moreBenefits": [
+          "Aids in digestion due to its fiber content.",
+          "Helps maintain healthy blood pressure due to its potassium content.",
+          "Low in calories and great for weight management."
+        ]
+      },
+      {
+        "name": "carambola",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "A great source of vitamin C that helps strengthen the immune system and promotes skin health."
+          },
+          {
+            "title": "Antioxidant-Rich",
+            "description": "Contains powerful antioxidants that help reduce inflammation and protect against oxidative stress."
+          },
+          {
+            "title": "Supports Digestion",
+            "description": "High in fiber, which promotes a healthy digestive system and helps prevent constipation."
+          }
+        ],
+        "moreBenefits": [
+          "Helps in maintaining healthy cholesterol levels.",
+          "May assist in regulating blood sugar levels.",
+          "Supports heart health due to its potassium content."
+        ]
+      },
+      {
+        "name": "cardon",
+        "keyBenefits": [
+          {
+            "title": "Rich in Fiber",
+            "description": "Cardon contains a significant amount of fiber that helps in promoting healthy digestion and preventing constipation."
+          },
+          {
+            "title": "High in Vitamin C",
+            "description": "The fruit is a good source of vitamin C, which supports the immune system and promotes skin health."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Rich in potassium and antioxidants, cardon may help regulate blood pressure and promote cardiovascular health."
+          }
+        ],
+        "moreBenefits": [
+          "Aids in the absorption of iron due to its vitamin C content.",
+          "Helps in maintaining healthy bones with its calcium content.",
+          "May contribute to reducing cholesterol levels."
+        ]
+      },
+      {
+        "name": "cashew",
+        "keyBenefits": [
+          {
+            "title": "High in Healthy Fats",
+            "description": "Cashews are rich in unsaturated fats, which can help improve cholesterol levels and promote heart health."
+          },
+          {
+            "title": "Rich in Protein",
+            "description": "Cashews are a good plant-based source of protein, which supports muscle growth and repair."
+          },
+          {
+            "title": "Supports Eye Health",
+            "description": "Cashews contain lutein and zeaxanthin, antioxidants that help protect eyes from damage caused by blue light."
+          }
+        ],
+        "moreBenefits": [
+          "Supports brain health with its magnesium content.",
+          "Helps manage weight by keeping you full longer.",
+          "Good for bone health with high levels of copper and magnesium."
+        ]
+      },
+      {
+        "name": "cherry",
+        "keyBenefits": [
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Cherries are rich in antioxidants like anthocyanins that help reduce inflammation and protect cells from oxidative stress."
+          },
+          {
+            "title": "Supports Sleep",
+            "description": "Cherries, particularly tart varieties, are a natural source of melatonin, which helps regulate sleep patterns."
+          },
+          {
+            "title": "Promotes Heart Health",
+            "description": "The antioxidants and anti-inflammatory compounds in cherries can help reduce the risk of heart disease."
+          }
+        ],
+        "moreBenefits": [
+          "May aid in muscle recovery due to its anti-inflammatory properties.",
+          "Supports healthy skin with vitamin C.",
+          "May help reduce the risk of gout flare-ups."
+        ]
+      },
+      {
+        "name": "chico",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Chico (Sapodilla) is packed with vitamin C, which boosts the immune system and supports healthy skin."
+          },
+          {
+            "title": "High in Fiber",
+            "description": "The fruit contains significant fiber content, which helps improve digestion and maintain regular bowel movements."
+          },
+          {
+            "title": "Good for Bone Health",
+            "description": "Chico is a source of calcium and phosphorus, which are important for maintaining strong and healthy bones."
+          }
+        ],
+        "moreBenefits": [
+          "Supports skin health by preventing premature aging.",
+          "Helps maintain healthy blood pressure levels due to its potassium content.",
+          "Rich in antioxidants that fight oxidative stress and inflammation."
+        ]
+      },
+      {
+        "name": "cocoa bean",
+        "keyBenefits": [
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Cocoa beans are packed with antioxidants like flavonoids, which help fight free radicals and reduce inflammation."
+          },
+          {
+            "title": "Boosts Heart Health",
+            "description": "The flavonoids in cocoa beans help improve blood flow, lower blood pressure, and reduce the risk of heart disease."
+          },
+          {
+            "title": "Enhances Mood",
+            "description": "Cocoa beans are known to boost mood and promote feelings of happiness by increasing serotonin and endorphins in the brain."
+          }
+        ],
+        "moreBenefits": [
+          "Supports brain health by improving cognitive function.",
+          "Aids in weight management by suppressing appetite.",
+          "May improve blood sugar control by increasing insulin sensitivity."
+        ]
+      },
+      {
+        "name": "coconut",
+        "keyBenefits": [
+          {
+            "title": "Rich in Healthy Fats",
+            "description": "Coconuts contain medium-chain triglycerides (MCTs), which are easily converted into energy and can support weight loss."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Coconuts have been shown to help improve cholesterol levels, reducing the risk of heart disease."
+          },
+          {
+            "title": "Boosts Immune System",
+            "description": "The lauric acid in coconut oil has antibacterial, antiviral, and antifungal properties, which support the immune system."
+          }
+        ],
+        "moreBenefits": [
+          "Improves skin health by moisturizing and reducing the signs of aging.",
+          "Supports digestive health by promoting healthy gut bacteria.",
+          "Helps maintain healthy blood sugar levels."
+        ]
+      },
+      {
+        "name": "corn kernel",
+        "keyBenefits": [
+          {
+            "title": "Good Source of Fiber",
+            "description": "Corn kernels are high in fiber, which aids in digestion, promotes regular bowel movements, and helps manage weight."
+          },
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Corn contains antioxidants like lutein and zeaxanthin, which are beneficial for eye health and help protect against age-related macular degeneration."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "The fiber and antioxidants in corn may help lower cholesterol and reduce the risk of heart disease."
+          }
+        ],
+        "moreBenefits": [
+          "Promotes healthy skin due to the presence of vitamin C.",
+          "May improve blood sugar control with its fiber content.",
+          "Supports bone health with its magnesium and phosphorus content."
+        ]
+      },
+      {
+        "name": "custard apple",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Custard apples are an excellent source of vitamin C, which helps boost the immune system and promotes healthy skin."
+          },
+          {
+            "title": "Supports Digestion",
+            "description": "The fiber content in custard apples helps improve digestion, regulate bowel movements, and prevent constipation."
+          },
+          {
+            "title": "Helps in Weight Management",
+            "description": "Custard apples are low in calories and high in fiber, making them a good option for weight management and promoting fullness."
+          }
+        ],
+        "moreBenefits": [
+          "Rich in antioxidants that help combat oxidative stress.",
+          "May improve skin health by preventing premature aging.",
+          "Supports healthy bone development with its calcium and magnesium content."
+        ]
+      },
+      {
+        "name": "date",
+        "keyBenefits": [
+          {
+            "title": "Rich in Natural Sugars",
+            "description": "Dates are a great source of natural sugars, providing an instant energy boost."
+          },
+          {
+            "title": "High in Fiber",
+            "description": "Dates contain a high amount of fiber, which aids in digestion and helps prevent constipation."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Dates are rich in potassium and magnesium, which help support healthy heart function and regulate blood pressure."
+          }
+        ],
+        "moreBenefits": [
+          "Rich in antioxidants, which help protect cells from damage.",
+          "May aid in promoting bone health due to its calcium and phosphorus content.",
+          "Can improve skin health by hydrating and reducing signs of aging."
+        ]
+      },
+      {
+        "name": "dragonfruit",
+        "keyBenefits": [
+          {
+            "title": "High in Vitamin C",
+            "description": "Dragonfruit is packed with vitamin C, which boosts the immune system and promotes healthy skin."
+          },
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Dragonfruit is high in antioxidants, which help reduce oxidative stress and inflammation."
+          },
+          {
+            "title": "Supports Digestive Health",
+            "description": "The fiber content in dragonfruit helps maintain digestive health and prevents constipation."
+          }
+        ],
+        "moreBenefits": [
+          "Helps regulate blood sugar levels.",
+          "Improves heart health by lowering bad cholesterol levels.",
+          "Aids in weight management by promoting feelings of fullness."
+        ]
+      },
+      {
+        "name": "eggplant",
+        "keyBenefits": [
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Eggplants contain antioxidants like nasunin, which help protect cells from oxidative damage."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "The fiber, potassium, and antioxidants in eggplant help support heart health by improving cholesterol levels and blood pressure."
+          },
+          {
+            "title": "Improves Digestion",
+            "description": "Eggplant contains fiber, which aids in digestion and promotes regular bowel movements."
+          }
+        ],
+        "moreBenefits": [
+          "May help with weight loss due to its low calorie and high fiber content.",
+          "Rich in vitamins like vitamin C and vitamin K, which are essential for immune health.",
+          "May help improve brain function by reducing inflammation."
+        ]
+      },
+      {
+        "name": "grape",
+        "keyBenefits": [
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Grapes are rich in antioxidants, such as resveratrol, which help protect cells from oxidative damage and may reduce inflammation."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "The antioxidants and potassium in grapes promote healthy heart function and may help lower blood pressure."
+          },
+          {
+            "title": "Boosts Immunity",
+            "description": "Grapes are a good source of vitamin C, which helps strengthen the immune system."
+          }
+        ],
+        "moreBenefits": [
+          "Can improve digestion due to their fiber content.",
+          "May help improve skin health by reducing signs of aging.",
+          "Promotes brain health and cognitive function."
+        ]
+      },
+      {
+        "name": "grapefruit",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Grapefruit is an excellent source of vitamin C, which helps strengthen the immune system."
+          },
+          {
+            "title": "Aids in Weight Loss",
+            "description": "Grapefruit contains compounds that can boost metabolism and aid in weight loss by promoting fat burning."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "The high fiber and antioxidant content in grapefruit help lower cholesterol and maintain heart health."
+          }
+        ],
+        "moreBenefits": [
+          "Helps improve skin health due to its vitamin C and antioxidants.",
+          "May help lower blood pressure due to its potassium content.",
+          "Aids in digestion with its fiber content."
+        ]
+      },
+      {
+        "name": "guava",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Guava is one of the richest sources of vitamin C, which promotes immunity and skin health."
+          },
+          {
+            "title": "Boosts Digestion",
+            "description": "Guava is rich in fiber, which promotes healthy digestion and prevents constipation."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Guavas contain potassium and fiber, which help lower blood pressure and reduce cholesterol levels."
+          }
+        ],
+        "moreBenefits": [
+          "Helps regulate blood sugar levels.",
+          "Contains antioxidants that help fight free radical damage.",
+          "Improves skin health and may reduce signs of aging."
+        ]
+      },
+      {
+        "name": "jackfruit",
+        "keyBenefits": [
+          {
+            "title": "High in Fiber",
+            "description": "Jackfruit is rich in fiber, which promotes healthy digestion and regular bowel movements."
+          },
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Jackfruit contains antioxidants such as vitamin C and flavonoids that help fight oxidative stress and inflammation."
+          },
+          {
+            "title": "Supports Immune Health",
+            "description": "The vitamin C in jackfruit boosts the immune system, helping the body fight off infections."
+          }
+        ],
+        "moreBenefits": [
+          "Promotes healthy skin and may reduce wrinkles.",
+          "Rich in potassium, which supports heart health and helps maintain proper electrolyte balance.",
+          "Helps in blood sugar regulation."
+        ]
+      },
+      {
+        "name": "jambul",
+        "keyBenefits": [
+          {
+            "title": "Regulates Blood Sugar Levels",
+            "description": "Jambul is known for its ability to regulate blood sugar levels, making it beneficial for diabetic patients."
+          },
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Jambul is rich in antioxidants that help protect cells from oxidative damage and reduce inflammation."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Jambul's nutrients, such as potassium, can help support a healthy heart and regulate blood pressure."
+          }
+        ],
+        "moreBenefits": [
+          "Improves digestion by reducing acidity and promoting better gut health.",
+          "Helps in weight management due to its low calorie content.",
+          "Has antimicrobial properties that help fight infections."
+        ]
+      },
+      {
+        "name": "kiwi",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Kiwi is packed with vitamin C, which boosts the immune system and improves skin health."
+          },
+          {
+            "title": "Supports Digestion",
+            "description": "Kiwi contains actinidin, an enzyme that aids in digestion and helps break down proteins."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Kiwi is rich in potassium, which helps regulate blood pressure and supports cardiovascular health."
+          }
+        ],
+        "moreBenefits": [
+          "Rich in antioxidants that protect cells from oxidative damage.",
+          "Helps improve sleep quality due to its serotonin content.",
+          "May support healthy skin by promoting collagen production."
+        ]
+      },
+      {
+        "name": "lablab",
+        "keyBenefits": [
+          {
+            "title": "Rich in Protein",
+            "description": "Lablab is a great source of plant-based protein, making it ideal for vegetarians and vegans."
+          },
+          {
+            "title": "Good for Digestion",
+            "description": "Lablab contains dietary fiber, which promotes digestion and helps prevent constipation."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "The fiber, potassium, and magnesium in lablab help lower blood pressure and reduce the risk of heart disease."
+          }
+        ],
+        "moreBenefits": [
+          "Rich in iron, which supports healthy red blood cell production.",
+          "Contains antioxidants that help protect cells from damage.",
+          "Helps manage blood sugar levels, making it beneficial for people with diabetes."
+        ]
+      },
+      {
+        "name": "lemon",
+        "keyBenefits": [
+          {
+            "title": "High in Vitamin C",
+            "description": "Lemons are a rich source of vitamin C, which boosts the immune system and promotes healthy skin."
+          },
+          {
+            "title": "Aids in Digestion",
+            "description": "Lemon juice can help improve digestion and prevent bloating due to its high acidity and pectin content."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Lemons contain antioxidants and potassium, which help lower blood pressure and improve heart health."
+          }
+        ],
+        "moreBenefits": [
+          "Helps detoxify the body by promoting liver function.",
+          "May help with weight loss by increasing metabolism and reducing appetite.",
+          "Has antibacterial properties and may improve oral health."
+        ]
+      },
+      {
+        "name": "lime",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Limes are an excellent source of vitamin C, which boosts immunity and helps with skin health."
+          },
+          {
+            "title": "Aids Digestion",
+            "description": "Lime juice can help improve digestion and alleviate symptoms of indigestion and bloating."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Limes contain antioxidants and fiber, which help lower blood pressure and improve heart health."
+          }
+        ],
+        "moreBenefits": [
+          "Helps detoxify the body by promoting liver function.",
+          "Can help with weight loss by increasing metabolism.",
+          "Has antibacterial properties that improve oral hygiene."
+        ]
+      },
+      {
+        "name": "lychee",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Lychees are a good source of vitamin C, which boosts immunity and supports skin health."
+          },
+          {
+            "title": "Promotes Digestion",
+            "description": "Lychees are high in fiber, which aids digestion and helps maintain a healthy gut."
+          },
+          {
+            "title": "Supports Skin Health",
+            "description": "The antioxidants in lychee help reduce wrinkles and improve skin elasticity."
+          }
+        ],
+        "moreBenefits": [
+          "Improves circulation and heart health due to its high potassium content.",
+          "Helps regulate blood pressure.",
+          "Has anti-inflammatory properties that reduce swelling and pain."
+        ]
+      },
+      {
+        "name": "macadamia",
+        "keyBenefits": [
+          {
+            "title": "Rich in Healthy Fats",
+            "description": "Macadamia nuts are high in monounsaturated fats, which are beneficial for heart health."
+          },
+          {
+            "title": "Supports Bone Health",
+            "description": "Macadamia nuts are a good source of magnesium and calcium, which support strong bones."
+          },
+          {
+            "title": "Improves Brain Function",
+            "description": "The healthy fats in macadamia nuts may support cognitive function and improve memory."
+          }
+        ],
+        "moreBenefits": [
+          "Rich in antioxidants that fight free radicals and protect cells.",
+          "Helps manage cholesterol levels and reduce inflammation.",
+          "Aids in weight management due to their fiber and healthy fat content."
+        ]
+      },
+      {
+        "name": "mango",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Mangoes are rich in vitamin C, which boosts immunity and supports skin health."
+          },
+          {
+            "title": "Promotes Digestion",
+            "description": "Mangoes contain enzymes like amylase that help break down and absorb food, aiding digestion."
+          },
+          {
+            "title": "Supports Eye Health",
+            "description": "The vitamin A in mangoes promotes good vision and eye health."
+          }
+        ],
+        "moreBenefits": [
+          "Rich in antioxidants that help protect against cancer and aging.",
+          "Helps lower cholesterol and supports heart health.",
+          "May aid in weight management by reducing appetite."
+        ]
+      },
+      {
+        "name": "midyim",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Midyim berries are packed with vitamin C, supporting immune function and skin health."
+          },
+          {
+            "title": "Antioxidant-Rich",
+            "description": "Midyim contains a variety of antioxidants that protect against oxidative stress and inflammation."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Midyim berries may help improve heart health by reducing cholesterol and promoting good blood circulation."
+          }
+        ],
+        "moreBenefits": [
+          "Promotes digestion and may reduce symptoms of constipation.",
+          "Rich in dietary fiber, which helps control blood sugar levels.",
+          "Can improve cognitive function and brain health."
+        ]
+      },
+      {
+        "name": "olive",
+        "keyBenefits": [
+          {
+            "title": "Rich in Healthy Fats",
+            "description": "Olives are high in monounsaturated fats, which are beneficial for heart health and inflammation reduction."
+          },
+          {
+            "title": "Supports Bone Health",
+            "description": "Olives are a good source of calcium, which supports bone strength and prevents osteoporosis."
+          },
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Olives contain antioxidants like vitamin E and polyphenols, which help reduce inflammation and oxidative stress."
+          }
+        ],
+        "moreBenefits": [
+          "Improves skin health by protecting against wrinkles and signs of aging.",
+          "Supports brain health and may reduce the risk of neurodegenerative diseases.",
+          "Helps manage blood sugar levels and supports diabetes management."
+        ]
+      },
+      {
+        "name": "orange",
+        "keyBenefits": [
+          {
+            "title": "High in Vitamin C",
+            "description": "Oranges are rich in vitamin C, which helps boost immunity and promotes healthy skin."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Oranges contain fiber, potassium, and antioxidants, which support heart health and reduce cholesterol."
+          },
+          {
+            "title": "Promotes Digestion",
+            "description": "The fiber in oranges helps promote healthy digestion and prevents constipation."
+          }
+        ],
+        "moreBenefits": [
+          "Improves eye health due to its vitamin A and carotenoid content.",
+          "Helps maintain healthy blood pressure levels.",
+          "Has anti-inflammatory properties that reduce swelling and inflammation."
+        ]
+      },
+      {
+        "name": "papaya",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Papayas are an excellent source of vitamin C, supporting immunity and skin health."
+          },
+          {
+            "title": "Supports Digestion",
+            "description": "Papaya contains enzymes like papain, which aids in the digestion of proteins and improves gut health."
+          },
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Papayas contain antioxidants like beta-carotene and flavonoids, which protect cells from oxidative damage."
+          }
+        ],
+        "moreBenefits": [
+          "Improves heart health by reducing cholesterol levels.",
+          "May help prevent cancer by fighting oxidative stress.",
+          "Promotes skin health and may reduce signs of aging."
+        ]
+      },
+      {
+        "name": "pea",
+        "keyBenefits": [
+          {
+            "title": "Rich in Protein",
+            "description": "Peas are a great source of plant-based protein, making them an excellent option for vegetarians and vegans."
+          },
+          {
+            "title": "Supports Digestive Health",
+            "description": "Peas are high in fiber, which aids digestion and helps regulate bowel movements."
+          },
+          {
+            "title": "Promotes Heart Health",
+            "description": "Peas contain potassium, which helps lower blood pressure and supports heart health."
+          }
+        ],
+        "moreBenefits": [
+          "Rich in iron, which helps prevent anemia and supports healthy blood circulation.",
+          "May help regulate blood sugar levels and improve insulin sensitivity.",
+          "Supports weight management by keeping you full for longer periods."
+        ]
+      },
+      {
+        "name": "peanut",
+        "keyBenefits": [
+          {
+            "title": "High in Protein",
+            "description": "Peanuts are an excellent source of protein, making them a great snack for vegetarians and those looking to build muscle."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Peanuts contain monounsaturated fats that help reduce bad cholesterol levels and support heart health."
+          },
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Peanuts contain antioxidants like resveratrol, which help fight oxidative stress and reduce inflammation."
+          }
+        ],
+        "moreBenefits": [
+          "Helps manage blood sugar levels by promoting healthy insulin sensitivity.",
+          "Supports weight loss by reducing hunger and keeping you full for longer periods.",
+          "May improve brain function due to their high vitamin E and niacin content."
+        ]
+      },
+      {
+        "name": "pear",
+        "keyBenefits": [
+          {
+            "title": "Rich in Fiber",
+            "description": "Pears are high in fiber, which aids digestion, prevents constipation, and helps maintain a healthy gut."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Pears are a good source of potassium, which helps lower blood pressure and supports overall heart health."
+          },
+          {
+            "title": "Boosts Immune System",
+            "description": "Pears contain vitamin C, which helps strengthen the immune system and protects against common illnesses."
+          }
+        ],
+        "moreBenefits": [
+          "Rich in antioxidants that protect against cell damage and aging.",
+          "Helps with weight management by keeping you satisfied for longer.",
+          "May improve skin health due to their vitamin C and water content."
+        ]
+      },
+      {
+        "name": "persimmon",
+        "keyBenefits": [
+          {
+            "title": "High in Vitamin A",
+            "description": "Persimmons are rich in vitamin A, which supports healthy vision and may reduce the risk of age-related eye diseases."
+          },
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Persimmons contain antioxidants like flavonoids and tannins, which help protect the body from oxidative stress."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Persimmons are a good source of fiber, which helps lower cholesterol levels and improves heart health."
+          }
+        ],
+        "moreBenefits": [
+          "Promotes healthy skin by reducing wrinkles and improving texture.",
+          "Helps regulate blood pressure due to their potassium content.",
+          "Aids in digestion due to their high fiber content."
+        ]
+      },
+      {
+        "name": "pineapple",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Pineapples are high in vitamin C, which boosts the immune system and promotes healthy skin."
+          },
+          {
+            "title": "Anti-Inflammatory Properties",
+            "description": "Pineapples contain bromelain, an enzyme that helps reduce inflammation and may alleviate joint pain."
+          },
+          {
+            "title": "Aids Digestion",
+            "description": "Bromelain in pineapples also helps in the digestion of proteins, promoting healthy gut function."
+          }
+        ],
+        "moreBenefits": [
+          "Helps improve bone health by supporting calcium absorption.",
+          "May help with weight loss by promoting satiety and reducing hunger.",
+          "Boosts heart health by reducing blood pressure and cholesterol levels."
+        ]
+      },
+      {
+        "name": "pomegranate",
+        "keyBenefits": [
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Pomegranates are packed with antioxidants, particularly punicalagins, which help protect the body from free radicals."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Pomegranates can help lower blood pressure, reduce cholesterol, and improve heart health."
+          },
+          {
+            "title": "Anti-Inflammatory Benefits",
+            "description": "The antioxidants in pomegranates help reduce inflammation and may alleviate symptoms of chronic inflammatory conditions."
+          }
+        ],
+        "moreBenefits": [
+          "May improve memory and cognitive function.",
+          "Aids in digestion and reduces bloating.",
+          "Supports skin health by reducing the appearance of wrinkles and protecting against sun damage."
+        ]
+      },
+      {
+        "name": "pumpkin",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin A",
+            "description": "Pumpkins are an excellent source of vitamin A, which supports healthy vision and immune function."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Pumpkins are high in fiber and potassium, which help regulate blood pressure and cholesterol levels."
+          },
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Pumpkins contain antioxidants like beta-carotene, which help fight oxidative stress and reduce inflammation."
+          }
+        ],
+        "moreBenefits": [
+          "Boosts skin health by preventing wrinkles and promoting a youthful appearance.",
+          "Aids in weight loss by promoting satiety and reducing hunger.",
+          "May improve digestion due to its fiber content."
+        ]
+      },
+      {
+        "name": "raspberry",
+        "keyBenefits": [
+          {
+            "title": "Rich in Fiber",
+            "description": "Raspberries are an excellent source of fiber, which aids digestion and helps maintain a healthy gut."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Raspberries are rich in antioxidants and anthocyanins, which help reduce cholesterol and support heart health."
+          },
+          {
+            "title": "Anti-Inflammatory Properties",
+            "description": "Raspberries have anti-inflammatory compounds that may help reduce swelling and inflammation in the body."
+          }
+        ],
+        "moreBenefits": [
+          "Supports weight loss by promoting a feeling of fullness.",
+          "Helps regulate blood sugar levels and improve insulin sensitivity.",
+          "Rich in vitamin C, which boosts the immune system and promotes healthy skin."
+        ]
+      },
+      {
+        "name": "ridged gourd",
+        "keyBenefits": [
+          {
+            "title": "Rich in Water",
+            "description": "Ridged gourd is high in water content, which helps keep the body hydrated and supports skin health."
+          },
+          {
+            "title": "Aids Digestion",
+            "description": "The fiber content in ridged gourd promotes digestion and helps prevent constipation."
+          },
+          {
+            "title": "Low in Calories",
+            "description": "Ridged gourd is low in calories, making it a great choice for weight management and overall health."
+          }
+        ],
+        "moreBenefits": [
+          "Supports heart health by promoting healthy cholesterol levels.",
+          "Helps detoxify the body due to its high water and fiber content.",
+          "May have anti-inflammatory properties, promoting joint health."
+        ]
+      },
+      {
+        "name": "strawberry",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Strawberries are a great source of vitamin C, which boosts the immune system and promotes healthy skin."
+          },
+          {
+            "title": "Supports Heart Health",
+            "description": "Strawberries contain antioxidants like anthocyanins that help reduce inflammation and improve heart health."
+          },
+          {
+            "title": "Helps Regulate Blood Sugar",
+            "description": "The fiber and antioxidants in strawberries can help regulate blood sugar levels and improve insulin sensitivity."
+          }
+        ],
+        "moreBenefits": [
+          "May help improve skin health by reducing wrinkles and promoting a youthful appearance.",
+          "Rich in antioxidants that protect against oxidative stress and aging.",
+          "Supports eye health due to their vitamin C and flavonoid content."
+        ]
+      },
+      {
+        "name": "tomato",
+        "keyBenefits": [
+          {
+            "title": "Rich in Vitamin C",
+            "description": "Tomatoes are a great source of vitamin C, which supports the immune system and promotes healthy skin."
+          },
+          {
+            "title": "Contains Lycopene",
+            "description": "Tomatoes are rich in lycopene, an antioxidant that may reduce the risk of certain cancers and heart disease."
+          },
+          {
+            "title": "Promotes Heart Health",
+            "description": "The potassium and fiber in tomatoes help regulate blood pressure and support heart health."
+          }
+        ],
+        "moreBenefits": [
+          "Helps improve digestion due to their high water and fiber content.",
+          "Promotes healthy vision by reducing the risk of age-related macular degeneration.",
+          "May aid in weight loss by promoting satiety and reducing hunger."
+        ]
+      },
+      {
+        "name": "vanilla",
+        "keyBenefits": [
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Vanilla contains antioxidants that help fight free radicals and protect the body from oxidative stress."
+          },
+          {
+            "title": "Promotes Skin Health",
+            "description": "Vanilla has anti-aging properties and can help prevent skin damage caused by environmental factors."
+          },
+          {
+            "title": "Boosts Mood",
+            "description": "The aroma of vanilla has been shown to improve mood and reduce feelings of anxiety or stress."
+          }
+        ],
+        "moreBenefits": [
+          "Has anti-inflammatory properties that may help reduce pain and inflammation.",
+          "Helps improve digestion by reducing bloating and promoting gut health.",
+          "May support heart health by lowering cholesterol levels."
+        ]
+      },
+      {
+        "name": "watermelon",
+        "keyBenefits": [
+          {
+            "title": "Hydration",
+            "description": "Watermelon is made up of 92% water, which helps keep the body hydrated and supports skin health."
+          },
+          {
+            "title": "Rich in Antioxidants",
+            "description": "Watermelon contains lycopene and beta-carotene, both of which have antioxidant properties and may reduce the risk of chronic diseases."
+          },
+          {
+            "title": "Aids Digestion",
+            "description": "Watermelon is high in fiber, which promotes healthy digestion and helps prevent constipation."
+          }
+        ],
+        "moreBenefits": [
+          "Supports heart health by reducing blood pressure and cholesterol levels.",
+          "Boosts immune system function due to its high vitamin C content.",
+          "May help reduce inflammation and promote joint health."
+        ]
+      },
+      {
+        "name": "zucchini",
+        "keyBenefits": [
+          {
+            "title": "Low in Calories",
+            "description": "Zucchini is low in calories and high in water content, making it an ideal vegetable for weight management."
+          },
+          {
+            "title": "Rich in Nutrients",
+            "description": "Zucchini is rich in vitamins A and C, which support immune health and promote healthy skin."
+          },
+          {
+            "title": "Aids Digestion",
+            "description": "Zucchini is high in fiber, which helps promote healthy digestion and prevent constipation."
+          }
+        ],
+        "moreBenefits": [
+          "Supports heart health by reducing cholesterol and blood pressure levels.",
+          "Helps detoxify the body due to its water content.",
+          "May promote eye health due to its high vitamin A content."
+        ]
+      }
+      
+    ]
+  }
+  
